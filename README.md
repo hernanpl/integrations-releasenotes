@@ -12,7 +12,7 @@
     See the Apache License Version 2.0 for the specific language governing permissions and limitations there under.
 
 -->
-------------------------------------------------
+
 release-3.19.4-01 (April 09, 2024)
 ------------------------------------------------
 - Provide [latest features](https://help.sonatype.com/iqserver/product-information/release-notes#ReleaseNotes-Release175(April2024)) for Nexus Lifecycle 1.175.0-01.
