@@ -12,5 +12,5 @@ h1 {
 h2 {
     font-family: 'Open Sans', sans-serif;
     font-weight: 600 !important;
-    font-family: var(--nx-font-family);
+    font-size: 16px !important;
 }
