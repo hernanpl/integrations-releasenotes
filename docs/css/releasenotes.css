@@ -4,7 +4,7 @@
     font-size: 16px;
     line-height: 1.5;
     -webkit-font-smoothing: antialiased;
-    font-color: #4d4d4d;
+    color: #4d4d4d;
 }
 
 h1 {
@@ -15,5 +15,5 @@ h1 {
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
     font-size: 16px;
-    font-color: #333333;
+    color: #333333;
 }
