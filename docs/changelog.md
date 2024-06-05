@@ -6,8 +6,6 @@ layout: default
     <link rel="stylesheet" type="text/css" href="css/releasenotes.css">
 </head>
 
-# Release Notes
-
 ## release-3.19.4-01 (April 09, 2024)
 Testing - Provide latest features for Nexus Lifecycle 1.175.0-01.
 
