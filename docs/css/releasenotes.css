@@ -6,12 +6,12 @@ body {
 }
 
 h1 {
-    display: none;
+    display: none !important;
 }
 
 h2 {
     font-family: 'Open Sans', sans-serif;
-    font-weight: 500;
+    font-weight: 500 !important;
     font-size: 18px;
     margin-bottom: calc(4px * 6);
 }
